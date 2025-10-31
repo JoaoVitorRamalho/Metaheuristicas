@@ -26,4 +26,4 @@ d = pares - p3 #diferença
 print(d)
 
 p4 = {4,6,10}
-print(pares ^ p4)
+print(pares ^ p4) #diferença simétrica
