@@ -30,7 +30,7 @@ def heuristica_aleatoria(n,interacoes):
 # print(a)
 # print(avalia_solucao(a))
 
-s, a = heuristica_aleatoria(50,1000000)
+s, a = heuristica_aleatoria(50,1000000.)
 
 print(s)
 print(a)
